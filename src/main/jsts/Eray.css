@@ -1,0 +1,3 @@
+a {
+    font-family: 'Georgia', Georgia, serif; /* Noncompliant; 'Georgia' is duplicated */
+}
