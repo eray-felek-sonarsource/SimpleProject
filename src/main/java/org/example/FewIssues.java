@@ -10,6 +10,7 @@ public class FewIssues {
     System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");
+    System.out.println("Hello world!");
     System.out.println("Hello world!");//eray
     int a;
     System.out.println("Hello world!");
@@ -20,6 +21,8 @@ public class FewIssues {
     System.out.println("Hello world!");//eray
     int b;
     int c;
+    int e;
+    int k;
     System.out.println("Hello world!");
   }
 
