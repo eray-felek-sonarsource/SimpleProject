@@ -15,7 +15,7 @@ public class FewIssues {
     int a;
     System.out.println("Hello world!");
     System.out.println("Hello world!");
-    System.out.println("Hello world!");
+    System.out.printlngetAutoDetectedNodeJs("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");
     System.out.println("Hello world!");//eray
@@ -23,6 +23,7 @@ public class FewIssues {
     int c;
     int e;
     int k;
+    //TODO
     System.out.println("Hello world!");
   }
 
