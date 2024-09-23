@@ -2,5 +2,18 @@
 <html lang="en">
 <head>
     <script data-options="resize:true" src="https://sonarsource.com"></script>
+    <iframe src="https://platform.twitter.com/widgets/tweet_button.html"
+            style="border: 0; width:130px; height:20px;">  <!-- Noncompliant -->
+    </iframe>
+    <webview
+            src="https://example.com/index.html"
+            nodeintegration="true"
+    >
+    </webview><!-- Noncompliant -->
+    <webview
+            src="https://example.com/index.html"
+            webpreferences="sandbox=false"
+    >
+    </webview><!-- Noncompliant -->
 </head>
 </html>
